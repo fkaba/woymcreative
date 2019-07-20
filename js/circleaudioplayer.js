@@ -298,7 +298,7 @@ CircleAudioPlayer.prototype = {
 
 // now init one as an example
 var cap = new CircleAudioPlayer({
-	audio: 'https://www.filehosting.org/file/details/812265/phantomsEPMP3.mp3',
+	audio: 'https://github.com/fkaba/woymcreative/blob/master/music/phantomsEPMP3.mp3?raw=true',
   size: 120,
   borderWidth: 4
 });
