@@ -35,7 +35,7 @@
 
 // settings
 var DEFAULTS = {
-	borderColor: "#7cbd1e",
+	borderColor: "#42a5f5",
 	playedColor: "#ffffff",
 	backgroundColor: "rgba(124,189,30,.2)",
 	iconColor: "#ffffff",
